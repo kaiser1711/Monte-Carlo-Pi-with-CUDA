@@ -1,0 +1,17 @@
+# Ignore all executable files
+*.exe
+
+# Ignore all exp files
+*.exp
+
+# Ignore all library files
+*.lib
+
+# Ignore all text files
+*.txt
+
+# Ignore all profile files
+*.ncu-rep
+
+# Ignore all json files
+*.json
