@@ -20,7 +20,7 @@ This repository contains different implementations of a Monte Carlo method for a
 
 ## Performance Comparison
 
-The following chart shows the performance of each version in terms of Monte Carlo Pi samples computed per millisecond run on NVIDIA GeForce GTX 1650:
+The following chart shows the performance of each version in terms of Monte Carlo Pi samples computed on NVIDIA GeForce GTX 1650:
 
 ![Performance Chart](performance_chart.jpg)
 
